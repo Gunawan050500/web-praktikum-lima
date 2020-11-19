@@ -1,0 +1,13 @@
+.konten {
+    text-align: center;
+}
+
+.konten input {
+    width: 200px;
+    text-align: center;
+}
+
+.konten select {
+    width: 200px;
+    text-align: center;
+}
